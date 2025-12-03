@@ -59,7 +59,6 @@ const App = () => {
       progress: undefined,
       theme: "dark",
       type:"error"
-      // transition: Bounce,
       });
     }
   }

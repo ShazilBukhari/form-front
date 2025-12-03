@@ -59,7 +59,6 @@ draggable: true,
 progress: undefined,
 theme: "dark",
 type:"error"
-// transition: Bounce,
 });
     }
   }
